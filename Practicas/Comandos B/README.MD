@@ -30,4 +30,4 @@ Regresa directamente al directorio home del usuario.
 Se navegó correctamente entre carpetas y se identificaron las diferencias entre los distintos formatos de listado (`ls`, `ls -l`, `ls -la`, `ls -lh`), observando permisos, propietarios, tamaños y archivos ocultos del sistema.
 
 ## Captura de pantalla
-![Comandos básicos](ComandosBasicos1.jpeg)
+![Comandos básicos](Codigo/ComandosBasicos1.jpeg)
