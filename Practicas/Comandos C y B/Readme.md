@@ -142,6 +142,10 @@ Referencias a la evidencia generada:
 
 ![paso5.png](Terminal/paso5.png)
 
+### Captura 5 — Eliminación con `rm` y `rm -r`
+
+![paso6.png](Terminal/paso6.png)
+
 ## Código / Scripts
 
 El script en Bash que automatiza los pasos de esta práctica se encuentra en la carpeta [`Codigo/`](Codigo/).
