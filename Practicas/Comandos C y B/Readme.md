@@ -134,11 +134,11 @@ Referencias a la evidencia generada:
 
 ![paso3.png](Terminal/paso3.png)
 
-### Captura 4 — Copia recursiva de carpetas con `cp -r`
+### Captura 4 — Creación de directorios con mkdir
 
 ![paso4.png](Terminal/paso4.png)
 
-### Captura 5 — Eliminación con `rm` y `rm -r`
+### Captura 5 — Copia de directorios con cp -r
 
 ![paso5.png](Terminal/paso5.png)
 
