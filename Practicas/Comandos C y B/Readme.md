@@ -24,20 +24,18 @@ Comprender el manejo del sistema de archivos en Ubuntu a través de la terminal,
 Practica/
 │
 ├── Codigo/
-│   ├── script1.sh
-│   ├── script2.sh
-│   └── ...
+│   └── script1.sh
 │
 ├── Terminal/
-│   ├── captura1.png
-│   ├── captura2.png
+│   ├── paso1.png
+│   ├── paso2.png
 │   └── ...
 │
 ├── Reporte/
 │   └── Reporte.pdf
 │
 ├── Video/
-│   └── video_practica.mp4
+│   └── video
 │
 └── README.md
 ```
@@ -47,7 +45,7 @@ Practica/
 | `Codigo/` | Scripts en Bash desarrollados para la práctica. |
 | `Terminal/` | Capturas de pantalla que evidencian la ejecución de los comandos. |
 | `Reporte/` | Documento PDF con el análisis reflexivo y la justificación teórica. |
-| `Video/` | Video demostrativo de 2 a 3 minutos con el funcionamiento en vivo de la práctica. |
+| `Video/` | Video demostrativo con el funcionamiento de la práctica. |
 
 ## Comandos utilizados
 
