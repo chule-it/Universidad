@@ -126,7 +126,7 @@ Referencias a la evidencia generada:
 
 ### Captura 2 — Verificación con `ls -l`
 
-![paso2.png](Terminal/paso2.png)
+![paso7.png](Terminal/paso7.png)
 
 ### Captura 3 — Copia de archivos con `cp`
 
