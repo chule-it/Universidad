@@ -128,19 +128,19 @@ Referencias a la evidencia generada:
 
 ### Captura 2 — Verificación con `ls -l`
 
-![Captura de terminal](Terminal/captura2.png)
+![paso2.png](Terminal/paso2.png)
 
 ### Captura 3 — Copia de archivos con `cp`
 
-![Captura de terminal](Terminal/captura3.png)
+![paso3.png](Terminal/paso3.png)
 
 ### Captura 4 — Copia recursiva de carpetas con `cp -r`
 
-![Captura de terminal](Terminal/captura4.png)
+![paso4.png](Terminal/paso4.png)
 
 ### Captura 5 — Eliminación con `rm` y `rm -r`
 
-![Captura de terminal](Terminal/captura5.png)
+![paso5.png](Terminal/paso5.png)
 
 ## Código / Scripts
 
