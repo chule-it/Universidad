@@ -120,27 +120,27 @@ Referencias a la evidencia generada:
 
 ## Evidencias
 
-### Captura 1 — Creación de carpetas con `mkdir`
+### 1 — Creación de carpetas con `mkdir`
 
 ![paso1.png](Terminal/paso1.png)
 
-### Captura 2 — Verificación con `ls -l`
+### 2 — Verificación con `ls -l`
 
 ![paso7.png](Terminal/paso7.png)
 
-### Captura 3 — Copia de archivos con `cp`
+### 3 — Copia de archivos con `cp`
 
 ![paso3.png](Terminal/paso3.png)
 
-### Captura 4 — Creación de directorios con mkdir
+### 4 — Creación de directorios con mkdir
 
 ![paso4.png](Terminal/paso4.png)
 
-### Captura 5 — Copia de directorios con cp -r
+### 5 — Copia de directorios con cp -r
 
 ![paso5.png](Terminal/paso5.png)
 
-### Captura 5 — Eliminación con `rm` y `rm -r`
+### 6 — Eliminación con `rm` y `rm -r`
 
 ![paso6.png](Terminal/paso6.png)
 
@@ -156,7 +156,7 @@ El documento con el análisis reflexivo y la justificación teórica de las obse
 
 ## Video demostrativo
 
-El video que demuestra en vivo el funcionamiento de la práctica (duración aproximada de 2 a 3 minutos) se encuentra disponible en la carpeta [`Video/`](Video/).
+El video que demuestra en vivo el funcionamiento de la práctica se encuentra disponible en la carpeta [`Video/`](Video/).
 
 ## Análisis técnico
 
