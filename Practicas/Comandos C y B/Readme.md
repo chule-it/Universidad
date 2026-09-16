@@ -124,7 +124,7 @@ Referencias a la evidencia generada:
 
 ### Captura 1 — Creación de carpetas con `mkdir`
 
-![Captura de terminal](Terminal/captura1.png)
+![paso1.png](Terminal/captura1.png)
 
 ### Captura 2 — Verificación con `ls -l`
 
