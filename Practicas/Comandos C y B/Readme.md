@@ -2,7 +2,7 @@
 
 ## Introducción
 
-El presente repositorio contiene el desarrollo de una práctica correspondiente a la materia **Sistemas Operativos**, enfocada en el manejo básico de directorios y archivos desde la terminal de Ubuntu. Se trabajó con comandos fundamentales como `mkdir`, `gedit`, `ls -l`, `cp` y `rm`, con el fin de comprender cómo el sistema operativo gestiona la creación, copia y eliminación de archivos y carpetas.
+El presente repositorio contiene el desarrollo de una práctica enfocada en el manejo básico de directorios y archivos desde la terminal de Ubuntu. Se trabajó con comandos fundamentales como `mkdir`, `gedit`, `ls -l`, `cp` y `rm`, con el fin de comprender cómo el sistema operativo gestiona la creación, copia y eliminación de archivos y carpetas.
 
 ## Objetivos
 
