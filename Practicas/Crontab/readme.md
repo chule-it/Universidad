@@ -17,7 +17,7 @@
 | 🎯 Objetivo | [Ir](#-objetivo) |
 | 🛠️ Desarrollo paso a paso | [Ir](#️-desarrollo-paso-a-paso) |
 | 📸 Evidencias | [Ir](#-evidencias) |
-| 📊 **Reporte generado** | [📂 Abrir carpeta de reportes](./reportes/) |
+| 📊 **Reporte generado** | [📂 Abrir carpeta de reportes](./Reporte/) |
 | ✅ Conclusiones | [Ir](#-conclusiones) |
 
 ---
