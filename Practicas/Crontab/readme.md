@@ -17,7 +17,7 @@
 | 🎯 Objetivo | [Ir](#-objetivo) |
 | 🛠️ Desarrollo paso a paso | [Ir](#️-desarrollo-paso-a-paso) |
 | 📸 Evidencias | [Ir](#-evidencias) |
-| 📊 **Reporte generado** | [📂 Abrir carpeta de reportes](./reportes/) · [📄 Ver `salud_pc.log`](./reportes/salud_pc.log) |
+| 📊 **Reporte generado** | [📂 Abrir carpeta de reportes](./reportes/) |
 | ✅ Conclusiones | [Ir](#-conclusiones) |
 
 ---
@@ -135,13 +135,13 @@ cat ~/salud_pc.log     # log completo
 
 ### Configuración: script, permisos, crontab y lectura del log
 
-[![Evidencia 1 - Configuración de cron y lectura del log](./img/crontab2.png)](./img/crontab2.png)
+[![Evidencia 1 - Configuración de cron y lectura del log](./img/Crontab1.png)](./img/Crontab1.png)
 
 En la captura se observa la creación del script, el cambio de permisos, la instalación del crontab y la lectura del log con `tail` y `cat`.
 
 ### Ejecución automática cada 2 minutos
 
-[![Evidencia 2 - Ejecuciones automáticas del reporte](./img/crontab1.png)](./img/crontab1.png)
+[![Evidencia 2 - Ejecuciones automáticas del reporte](./img/Crontab2.png)](./img/Crontab2.png)
 
 Aquí se ve cómo `cron` ejecutó el script de forma automática a las **15:56:01** y a las **15:58:01**, es decir, **exactamente cada 2 minutos**.
 
@@ -151,8 +151,7 @@ Aquí se ve cómo `cron` ejecutó el script de forma automática a las **15:56:0
 
 | Recurso | Enlace |
 |---|---|
-| 📂 Carpeta de reportes | [**`/reportes`**](./reportes/) |
-| 📄 Archivo de log | [**`reportes/salud_pc.log`**](./reportes/salud_pc.log) |
+| 📂 Reporte | [**`/reporter`**](./Reporter_Crontab/) |
 
 <details>
 <summary><b>👉 Haz clic para ver un ejemplo de una ejecución del reporte</b></summary>
@@ -211,17 +210,6 @@ crontab -r                       # ⚠️ Eliminar TODAS las tareas de cron
 
 ---
 
-## 📁 Estructura del proyecto
-
-```text
-.
-├── README.md
-├── img/
-│   ├── crontab1.png
-│   └── crontab2.png
-└── reportes/
-    ├── README.md
-    └── salud_pc.log
 ```
 
 <p align="center">
