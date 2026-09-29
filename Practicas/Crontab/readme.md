@@ -141,7 +141,7 @@ En la captura se observa la creación del script, el cambio de permisos, la inst
 
 ### Ejecución automática cada 2 minutos
 
-[![Evidencia 2 - Ejecuciones automáticas del reporte](./img/Crontab2.png)](./img/Crontab2.png)
+[![Evidencia 2 - Ejecuciones automáticas del reporte](Terminal/Crontab2.png)](Terminal/Crontab2.png)
 
 Aquí se ve cómo `cron` ejecutó el script de forma automática a las **15:56:01** y a las **15:58:01**, es decir, **exactamente cada 2 minutos**.
 
