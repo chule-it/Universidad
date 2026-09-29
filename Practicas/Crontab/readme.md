@@ -135,7 +135,7 @@ cat ~/salud_pc.log     # log completo
 
 ### Configuración: script, permisos, crontab y lectura del log
 
-[![Evidencia 1 - Configuración de cron y lectura del log](Practicas/Crontab/Terminal/Crontab1.png)](Practicas/Crontab/Terminal/Crontab1.png)
+[![Evidencia 1 - Configuración de cron y lectura del log](Practicas/Crontab/Terminal/Crontab1.png)]
 
 En la captura se observa la creación del script, el cambio de permisos, la instalación del crontab y la lectura del log con `tail` y `cat`.
 
