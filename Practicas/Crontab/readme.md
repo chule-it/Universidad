@@ -151,7 +151,7 @@ Aquí se ve cómo `cron` ejecutó el script de forma automática a las **15:56:0
 
 | Recurso | Enlace |
 |---|---|
-| 📂 Reporte | [**`/reporter`**](./Reporter_Crontab/) |
+| 📂 Reporte | [**`/reporte`**](./Reporte/) |
 
 <details>
 <summary><b>👉 Haz clic para ver un ejemplo de una ejecución del reporte</b></summary>
