@@ -210,9 +210,21 @@ crontab -r                       # ⚠️ Eliminar TODAS las tareas de cron
 
 ---
 
-```
+## 🎥 Video de la práctica
 
-<p align="center">
-  <a href="#️-monitor-de-salud-de-la-computadora-con-cron">⬆️ Volver arriba</a>
-</p>
+> ▶️ **Haz clic en la imagen para ver el video completo.**
+
+[![Ver video de la práctica](https://img.youtube.com/vi/TU_ID_DE_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=TU_ID_DE_VIDEO)
+
+<details>
+<summary><b>👉 Qué se muestra en el video</b></summary>
+
+- Creación del script `salud_pc.sh` y asignación de permisos.
+- Configuración de la tarea en `crontab -e`.
+- Ejecución automática cada 2 minutos.
+- Lectura del reporte con `tail` y `cat`.
+
+</details>
+
+🔗 [Abrir el video en una pestaña nueva](https://www.youtube.com/watch?v=TU_ID_DE_VIDEO)
 
